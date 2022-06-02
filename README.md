@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=WELCOME&desc=FrontWeb-dev%20%20github.io&fontSize=80&rotate=-20&&fontAlign=30&fontAlignY=30&descAlignY=45&descAlign=45&reversal=true&customColorList=12)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=WELCOME&desc=FrontWeb-dev%20%20github.io&fontSize=80&rotate=20&&fontAlign=70&fontAlignY=30&descAlignY=45&descAlign=80&customColorList=12)
 
 <div><h2>🖐🏻 Hi, there </h2></div>
 
