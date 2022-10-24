@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontWeb-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrontWeb-dev&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrontWeb-dev)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br>
 <div><h2>📚 STACKS</h2></div>
